@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shenessa
-- 👀 I’m interested in reading, writing, designing, creating color scheme, and coding.
-- 🌱 I’m currently learning Java, Python, and Web/Mobile Apps.
+- 👀 I’m interested in reading, writing, designing, and coding.
+- 🌱 I’m currently learning Computer Programming and Development @ Wake Tech Community College.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @shenessashaw@gmail.com
 
