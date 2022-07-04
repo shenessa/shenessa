@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @shenessa
-- 👀 I’m interested in reading, writing, designing, and coding.
-- 🌱 I’m currently learning Computer Programming and Development @ Wake Tech Community College.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @shenessashaw@gmail.com
+- 👋 Hi, I’m @shenessa from the United States.
+- 📫 How to reach me @shenessashaw@gmail.com.
+- 👀 I’m interested in extending my coding skills and knowledge.
+- 💓 I love honing my skills by building personal project, such as games, demo sites, and web apps.
+- 🌱 I'm an alumi of Wake Tech Community College with a degree in Computer Programming and Development.
+
 
 <!---
 shenessa/shenessa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
